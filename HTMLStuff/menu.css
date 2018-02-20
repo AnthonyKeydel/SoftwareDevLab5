@@ -1,0 +1,24 @@
+p{
+    margin:0;}
+#parent{
+    border: 2px solid black; width: 20%;
+}
+#div1{
+   border: 2px solid black; width:95%;
+   margin-top: 5px;margin-bottom: 5px;margin-right: 5px;padding: 10px;background-color: bisque;
+}
+#header{
+    background-color: white;   
+}
+h{
+    font-size: 50px;    
+}
+#text{
+    clear:right; 
+}
+img {
+    border: 1px solid #000000;
+    border-radius: 50px;
+    padding: 0px;
+    width: 500px;
+}
